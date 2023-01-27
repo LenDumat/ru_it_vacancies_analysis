@@ -1,0 +1,90 @@
+2022-11-28 21:44:23,022 INFO Started Head hunter parser
+2022-11-28 21:45:33,536 INFO Started Head hunter parser
+2022-11-28 21:45:36,214 INFO 4 out of 4 proxies are working correctly
+2022-11-28 21:50:09,790 INFO Started Head hunter parser
+2022-11-28 21:50:10,868 INFO 4 out of 4 proxies are working correctly
+2022-11-28 21:50:17,011 INFO Number of roles to parse - 25
+2022-11-28 21:50:19,982 INFO Role=BI-аналитик, аналитик данных, Area=Russia, Items=44
+2022-11-28 21:50:19,983 INFO Inserting 44 vacancies
+2022-11-28 21:50:22,171 INFO Role=DevOps-инженер, Area=Russia, Items=77
+2022-11-28 21:50:22,178 INFO Inserting 77 vacancies
+2022-11-28 21:50:23,851 INFO Role=Аналитик, Area=Russia, Items=1443
+2022-11-28 21:51:02,732 INFO Inserting 1443 vacancies
+2022-11-28 21:51:04,855 INFO Role=Арт-директор, креативный директор, Area=Russia, Items=25
+2022-11-28 21:51:04,857 INFO Inserting 25 vacancies
+2022-11-28 21:51:06,924 INFO Role=Бизнес-аналитик, Area=Russia, Items=60
+2022-11-28 21:51:06,926 INFO Inserting 60 vacancies
+2022-11-28 21:51:08,823 INFO Role=Гейм-дизайнер, Area=Russia, Items=17
+2022-11-28 21:51:08,824 INFO Inserting 17 vacancies
+2022-11-28 21:51:09,845 INFO Role=Дата-сайентист, Area=Russia, Items=17
+2022-11-28 21:51:09,846 INFO Inserting 17 vacancies
+2022-11-28 21:51:11,042 INFO Role=Дизайнер, художник, Area=Russia, Items=539
+2022-11-28 21:51:25,415 INFO Inserting 539 vacancies
+2022-11-28 21:51:26,701 INFO Role=Директор по информационным технологиям (CIO), Area=Russia, Items=36
+2022-11-28 21:51:26,704 INFO Inserting 36 vacancies
+2022-11-28 21:51:28,524 INFO Role=Менеджер продукта, Area=Russia, Items=332
+2022-11-28 21:51:36,616 INFO Inserting 332 vacancies
+2022-11-28 21:51:37,452 INFO Role=Методолог, Area=Russia, Items=23
+2022-11-28 21:51:37,453 INFO Inserting 23 vacancies
+2022-11-28 21:51:38,810 INFO Role=Программист, разработчик, Area=Russia, Items=3881
+2022-11-28 21:51:40,277 INFO --->Role=Программист, разработчик, Area=Регионы, Items=1496
+2022-11-28 21:52:16,372 INFO Inserting 1496 vacancies
+2022-11-28 21:52:17,781 INFO --->Role=Программист, разработчик, Area=Москва, Items=1892
+2022-11-28 21:53:01,400 INFO Started Head hunter parser
+2022-11-28 21:53:02,513 INFO 4 out of 4 proxies are working correctly
+2022-11-28 21:53:07,336 INFO Number of roles to parse - 25
+2022-11-28 21:53:08,074 INFO Role=BI-аналитик, аналитик данных, Area=Russia, Items=44
+2022-11-28 21:53:08,077 INFO Inserting 44 vacancies
+2022-11-28 21:53:11,439 INFO Role=DevOps-инженер, Area=Russia, Items=77
+2022-11-28 21:53:11,440 INFO Inserting 77 vacancies
+2022-11-28 21:53:12,193 INFO Role=Аналитик, Area=Russia, Items=1443
+2022-11-28 21:53:39,283 INFO Inserting 1443 vacancies
+2022-11-28 21:53:40,308 INFO Role=Арт-директор, креативный директор, Area=Russia, Items=25
+2022-11-28 21:53:40,310 INFO Inserting 25 vacancies
+2022-11-28 21:53:43,722 INFO Role=Бизнес-аналитик, Area=Russia, Items=60
+2022-11-28 21:53:43,724 INFO Inserting 60 vacancies
+2022-11-28 21:53:46,003 INFO Role=Гейм-дизайнер, Area=Russia, Items=17
+2022-11-28 21:53:46,004 INFO Inserting 17 vacancies
+2022-11-28 21:53:47,213 INFO Role=Дата-сайентист, Area=Russia, Items=17
+2022-11-28 21:53:47,214 INFO Inserting 17 vacancies
+2022-11-28 21:53:48,609 INFO Role=Дизайнер, художник, Area=Russia, Items=540
+2022-11-28 21:54:02,048 INFO Inserting 540 vacancies
+2022-11-28 21:54:04,804 INFO Role=Директор по информационным технологиям (CIO), Area=Russia, Items=36
+2022-11-28 21:54:04,805 INFO Inserting 36 vacancies
+2022-11-28 21:54:05,523 INFO Role=Менеджер продукта, Area=Russia, Items=332
+2022-11-28 21:54:13,604 INFO Inserting 332 vacancies
+2022-11-28 21:54:15,654 INFO Role=Методолог, Area=Russia, Items=23
+2022-11-28 21:54:15,657 INFO Inserting 23 vacancies
+2022-11-28 21:54:17,815 INFO Role=Программист, разработчик, Area=Russia, Items=3881
+2022-11-28 21:54:18,463 INFO --->Role=Программист, разработчик, Area=Регионы, Items=1496
+2022-11-28 21:54:49,048 INFO Inserting 1496 vacancies
+2022-11-28 21:54:50,346 INFO --->Role=Программист, разработчик, Area=Москва, Items=1892
+2022-11-28 21:55:32,658 INFO Inserting 1892 vacancies
+2022-11-28 21:55:36,262 INFO --->Role=Программист, разработчик, Area=Санкт-Петербург, Items=493
+2022-11-28 21:55:46,223 INFO Inserting 493 vacancies
+2022-11-28 21:55:47,323 INFO Role=Продуктовый аналитик, Area=Russia, Items=21
+2022-11-28 21:55:47,324 INFO Inserting 21 vacancies
+2022-11-28 21:55:50,414 INFO Role=Руководитель группы разработки, Area=Russia, Items=239
+2022-11-28 21:55:57,090 INFO Inserting 239 vacancies
+2022-11-28 21:55:57,625 INFO Role=Руководитель отдела аналитики, Area=Russia, Items=15
+2022-11-28 21:55:57,630 INFO Inserting 15 vacancies
+2022-11-28 21:55:58,808 INFO Role=Руководитель проектов, Area=Russia, Items=761
+2022-11-28 21:56:17,903 INFO Inserting 761 vacancies
+2022-11-28 21:56:20,132 INFO Role=Сетевой инженер, Area=Russia, Items=161
+2022-11-28 21:56:25,072 INFO Inserting 161 vacancies
+2022-11-28 21:56:26,897 INFO Role=Системный администратор, Area=Russia, Items=831
+2022-11-28 21:56:44,624 INFO Inserting 831 vacancies
+2022-11-28 21:56:47,291 INFO Role=Системный аналитик, Area=Russia, Items=81
+2022-11-28 21:56:47,295 INFO Inserting 81 vacancies
+2022-11-28 21:56:50,602 INFO Role=Системный инженер, Area=Russia, Items=288
+2022-11-28 21:56:55,491 INFO Inserting 288 vacancies
+2022-11-28 21:56:58,222 INFO Role=Специалист по информационной безопасности, Area=Russia, Items=504
+2022-11-28 21:57:09,776 INFO Inserting 504 vacancies
+2022-11-28 21:57:10,616 INFO Role=Специалист технической поддержки, Area=Russia, Items=1181
+2022-11-28 21:57:37,553 INFO Inserting 1181 vacancies
+2022-11-28 21:57:39,717 INFO Role=Тестировщик, Area=Russia, Items=396
+2022-11-28 21:57:45,387 INFO Inserting 396 vacancies
+2022-11-28 21:57:48,846 INFO Role=Технический директор (CTO), Area=Russia, Items=86
+2022-11-28 21:57:48,848 INFO Inserting 86 vacancies
+2022-11-28 21:57:50,669 INFO Role=Технический писатель, Area=Russia, Items=55
+2022-11-28 21:57:50,675 INFO Inserting 55 vacancies

@@ -1,0 +1,16 @@
+2022-11-28 21:03:09,824 INFO Started GetMatch parser
+2022-11-28 21:04:28,041 INFO Started GetMatch parser
+2022-11-28 21:08:56,135 INFO Started GetMatch parser
+2022-11-28 21:10:36,728 INFO Started GetMatch parser
+2022-11-28 21:11:13,021 INFO Started GetMatch parser
+2022-11-28 21:12:52,153 INFO Started GetMatch parser
+2022-11-28 21:12:53,378 INFO 4 out of 4 proxies are working correctly
+2022-11-28 21:13:20,727 INFO Started GetMatch parser
+2022-11-28 21:13:21,856 INFO 4 out of 4 proxies are working correctly
+2022-11-28 21:13:23,320 INFO Found 16 pages of vacancies in GetMatch
+2022-11-28 21:15:39,344 INFO Started GetMatch parser
+2022-11-28 21:15:41,589 INFO 4 out of 4 proxies are working correctly
+2022-11-28 21:15:42,759 INFO Found 16 pages of vacancies in GetMatch
+2022-11-28 21:17:53,319 INFO Found 11 pages of vacancies in GetMatch
+2022-11-28 21:20:03,133 INFO Found 5 pages of vacancies in GetMatch
+2022-11-28 21:20:58,732 INFO Finished GetMatch parser

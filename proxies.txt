@@ -1,0 +1,3 @@
+#login:password@ip:port
+user:pass@0.0.0.0:0000
+#

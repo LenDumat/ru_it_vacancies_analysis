@@ -1,3 +1,6 @@
 #login:password@ip:port
-user:pass@0.0.0.0:0000
+hrV2SS:rmJsStIFQ6@188.130.210.54:1050
+hrV2SS:rmJsStIFQ6@46.8.110.38:1050
+hrV2SS:rmJsStIFQ6@109.248.143.141:1050
+hrV2SS:rmJsStIFQ6@46.8.11.44:1050
 #

@@ -4,11 +4,6 @@ import os
 
 current_folder = Path.cwd()
 venv_python = os.path.join('vacancies_venv', 'bin', 'python3')
-get_match = os.path.join(current_folder, 'get_match.py')
-head_hunter = os.path.join(current_folder, 'head_hunter.py')
-habr_career = os.path.join(current_folder, 'habr_career.py')
-geek_job = os.path.join(current_folder, 'geek_job.py')
-insert_to_db = os.path.join(current_folder, 'insert_to_db.py')
 
 with CronTab(user='root') as cron:
 
@@ -26,3 +21,6 @@ with CronTab(user='root') as cron:
 
     job = cron.new(command=f'cd {current_folder} && {venv_python} insert_to_db.py')
     job.setall('30 21 * * *')
+
+    job = cron.new(command=f'cd {current_folder} && {venv_python} currency_rates.py')
+    job.setall('05 00 * * *')
